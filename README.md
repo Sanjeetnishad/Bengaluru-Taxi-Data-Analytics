@@ -86,25 +86,25 @@ Bengaluru-Taxi-Data-Analytics/
 ## 📸 Dashboard Preview
 
 ### Page 1 - Executive Dashboard
-![Dashboard Page 1](images/page1.png)
+![Dashboard Page 1]([images/page1.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%201.png))
 
 ### Page 2 - Booking Analysis
-![Dashboard Page 2](images/page2.png)
+![Dashboard Page 2]([images/page2.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%202.png))
 
 ### Page 3 - Revenue Analysis
-![Dashboard Page 3](images/page3.png)
+![Dashboard Page 3]([images/page3.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%203.png))
 
 ### Page 4 - Cancellation Analysis
-![Dashboard Page 4](images/page4.png)
+![Dashboard Page 4]([images/page4.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%204.png))
 
 ### Page 5 - Ward-wise Performance
-![Dashboard Page 5](images/page5.png)
+![Dashboard Page 5]([images/page5.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%205.png))
 
 ### Page 6 - Distance & Fare Analysis
-![Dashboard Page 6](images/page6.png)
+![Dashboard Page 6]([images/page6.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%206.png))
 
 ### Page 7 - Project Summary
-![Dashboard Page 7](images/page7.png)
+![Dashboard Page 7]([images/page7.png](https://github.com/Sanjeetnishad/Bengaluru-Taxi-Data-Analytics/blob/7b93ee843dbefb6316f5ab85d46ab3379d808975/images/page%207.png))
 
 ## 💡 Business Insights
 
