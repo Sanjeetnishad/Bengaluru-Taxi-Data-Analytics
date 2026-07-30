@@ -83,31 +83,28 @@ Bengaluru-Taxi-Data-Analytics/
 ```
 
 ---
-
 ## 📸 Dashboard Preview
 
 ### Page 1 - Executive Dashboard
-![Dashboard Page 1](page1.png)
+![Dashboard Page 1](images/page1.png)
 
 ### Page 2 - Booking Analysis
-![Dashboard Page 2](page2.png)
+![Dashboard Page 2](images/page2.png)
 
 ### Page 3 - Revenue Analysis
-![Dashboard Page 3](page3.png)
+![Dashboard Page 3](images/page3.png)
 
 ### Page 4 - Cancellation Analysis
-![Dashboard Page 4](page4.png)
+![Dashboard Page 4](images/page4.png)
 
 ### Page 5 - Ward-wise Performance
-![Dashboard Page 5](page5.png)
+![Dashboard Page 5](images/page5.png)
 
 ### Page 6 - Distance & Fare Analysis
-![Dashboard Page 6](page6.png)
+![Dashboard Page 6](images/page6.png)
 
 ### Page 7 - Project Summary
-![Dashboard Page 7](page7.png)
-
----
+![Dashboard Page 7](images/page7.png)
 
 ## 💡 Business Insights
 
