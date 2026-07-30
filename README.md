@@ -91,11 +91,19 @@ Add screenshots of your Power BI dashboard in the `Images` folder and display th
 Example:
 
 ```
-![Dashboard Page 1](Images/Page1.png)
+![Dashboard Page 1](page1.png)
 
-![Dashboard Page 2](Images/Page2.png)
+![Dashboard Page 2](page2.png)
 
-![Dashboard Page 3](Images/Page3.png)
+![Dashboard Page 3](page3.png)
+
+![Dashboard Page 4](page4.png)
+
+![Dashboard Page 5](page5.png)
+
+![Dashboard Page 6](page6.png)
+
+![Dashboard Page 7](page7.png)
 ```
 
 ---
